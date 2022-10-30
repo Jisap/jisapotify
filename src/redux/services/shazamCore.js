@@ -1,5 +1,5 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
-//51befa78e9mshf61f58c4a3515fbp1fb1efjsn450cc588b1e8
+
 
 export const shazamCoreApi = createApi({ // Servicio de peticiones a la api
     reducerPath: 'shazamCoreApi',                                                               // Nombre del servicio en el reducer
